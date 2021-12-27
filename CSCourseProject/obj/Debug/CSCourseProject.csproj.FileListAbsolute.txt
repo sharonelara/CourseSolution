@@ -1,0 +1,7 @@
+C:\Users\Centrical\Documents\Automation\CourseSolution\CSCourseProject\bin\Debug\CSCourseProject.exe.config
+C:\Users\Centrical\Documents\Automation\CourseSolution\CSCourseProject\bin\Debug\CSCourseProject.exe
+C:\Users\Centrical\Documents\Automation\CourseSolution\CSCourseProject\bin\Debug\CSCourseProject.pdb
+C:\Users\Centrical\Documents\Automation\CourseSolution\CSCourseProject\obj\Debug\CSCourseProject.csproj.AssemblyReference.cache
+C:\Users\Centrical\Documents\Automation\CourseSolution\CSCourseProject\obj\Debug\CSCourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Centrical\Documents\Automation\CourseSolution\CSCourseProject\obj\Debug\CSCourseProject.exe
+C:\Users\Centrical\Documents\Automation\CourseSolution\CSCourseProject\obj\Debug\CSCourseProject.pdb
