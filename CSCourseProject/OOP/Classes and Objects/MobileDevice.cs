@@ -14,6 +14,8 @@ namespace CSCourseProject.OOP.Classes_and_Objects
         public double OSVersion;
         public bool hasFlash;
         public int price;
+        public double screenWidth;
+        public double screenHeight;
 
         public void PrintParameters()
         {
@@ -22,7 +24,22 @@ namespace CSCourseProject.OOP.Classes_and_Objects
             Console.WriteLine("OS Version: " + OSVersion);
             Console.WriteLine("Flash: " + hasFlash);
             Console.WriteLine("Price: $" + price);
-            Console.ReadKey();
+            
+        }
+
+        public double CalculateArea()
+        {
+            return screenWidth * screenHeight;
+        }
+
+        public void PictureQuality() 
+        {
+            if(hasFlash == true)
+            {
+                Console.WriteLine("Picture quality is good.");
+            }
+            else
+                Console.WriteLine("Picture quality is bad");
         }
     }
 }

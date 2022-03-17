@@ -17,9 +17,15 @@ namespace CSCourseProject.OOP.Classes_and_Objects
             iPhone.OSVersion = 15;
             iPhone.hasFlash = true;
             iPhone.price = 600;
+            iPhone.screenHeight = 5.78;
+            iPhone.screenWidth = 2.82;
 
             iPhone.PrintParameters();
-            
+            Console.WriteLine("Area of screen is " + iPhone.CalculateArea());
+            iPhone.PictureQuality();
+
+            Console.ReadKey();
+
         }
     }
 }
