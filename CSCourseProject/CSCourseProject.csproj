@@ -46,6 +46,8 @@
     <Compile Include="Early Lessons\Program.cs" />
     <Compile Include="OOP\Classes and Objects\MainProgram.cs" />
     <Compile Include="OOP\Classes and Objects\MobileDevice.cs" />
+    <Compile Include="OOP\SauceDemo\Item.cs" />
+    <Compile Include="OOP\SauceDemo\MainProgram.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
