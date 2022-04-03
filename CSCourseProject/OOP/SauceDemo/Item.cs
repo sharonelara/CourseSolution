@@ -33,7 +33,7 @@ namespace CSCourseProject.OOP.SauceDemo
             {
                 //click button
             }
-            else
+            else { }
                 //no click
         }
     }
